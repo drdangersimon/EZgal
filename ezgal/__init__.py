@@ -9,10 +9,9 @@ This is a fork of the EZGAL for running with Age_Date. See http://www.baryons.or
 
 
 import src
-import convert #todo
 __author__ = 'Conor Mancone, Anthony Gonzalez'
 __email__ = 'cmancone@gmail.com'
-__ver__ = '2.0'
+__ver__ = '2.1'
 
 ezgal = src.ezgal.ezgal
 model = ezgal

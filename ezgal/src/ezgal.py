@@ -4,7 +4,7 @@ import os,utils,re,sfhs,weight,collections,astro_filter_light
 import numpy as np
 # more modules are loaded in ezgal.__init__()
 # they are split up this way so that ezgal_light doesn't have to import those modules
-__ver__ = '2.0'
+__ver__ = '2.1'
 
 class ezgal(object):
     """ model = ezgal.ezgal( model_file, is_ised=False, is_fits=False, is_ascii=False, has_masses=False, units='a', age_units='gyrs')
